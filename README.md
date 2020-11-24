@@ -2,7 +2,7 @@
 
 Curso Javascript Intermedio II del [CETAV](http://parquelalibertad.org/cetav/).
 
-URL base: `https://js2-contact-form-api.netlify.app/`
+URL: `https://js2-contact-form-api.netlify.app/api/contact`
 
 ## Documentación
 
